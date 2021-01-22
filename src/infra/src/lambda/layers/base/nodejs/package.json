@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "startup-lambda-base",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.802.0"
+  }
+}

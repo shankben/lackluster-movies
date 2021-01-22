@@ -1,0 +1,11 @@
+secrets/
+dist/
+data/csv/*.tsv
+cdk.context.json
+*.js
+!jest.config.js
+*.d.ts
+node_modules
+.cdk.staging
+cdk.out
+.parcel-cache

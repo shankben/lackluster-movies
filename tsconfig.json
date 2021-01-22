@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./src/core" },
+    { "path": "./src/tools" },
+    { "path": "./src/infra" }
+  ]
+}
