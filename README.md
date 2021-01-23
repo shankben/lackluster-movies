@@ -10,12 +10,16 @@ They were excited to make their vision a reality, but in order to be successful,
 
 This is the story of a startup. A really, _really_ original startup.
 
-## Useful Commands
+## Some Unrealistic Assumptions
+- There is only one copy of each movie in the inventory, so if a user has rented the movie, it is not available for rentals for other users.
+- There are no late fees.
 
-  * `npm run build` compile project to `dist`
-  * `npm run clean` delete everything in `cdk.out` and `dist`
-  * `npm run watch` watch for changes and compile
-  * `cdk ls` lists the stacks you can deploy
-  * `cdk deploy` deploy this stack to your default AWS account/region
-  * `cdk diff` compare deployed stack with current state
-  * `cdk synth` emits the synthesized CloudFormation template
+
+## Useful Commands
+* `npm run build` compile project to `dist`
+* `npm run clean` delete everything in `cdk.out` and `dist`
+* `npm run watch` watch for changes and compile
+* `cdk ls` lists the stacks you can deploy
+* `cdk deploy` deploy this stack to your default AWS account/region
+* `cdk diff` compare deployed stack with current state
+* `cdk synth` emits the synthesized CloudFormation template
